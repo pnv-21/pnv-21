@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**pnv-21/pnv-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Panav, a recent Master of Applied Computing grad from Wilfrid Laurier University.
 
-Here are some ideas to get you started:
+My favorite kind of project starts with a vague business question, messy data, and a deadline. That has mostly meant fraud detection, risk modeling, and operational reporting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently open to full-time data analytics, data science, and ML roles in Ontario or remote. Always happy to collaborate on interesting data projects.
+
+---
+
+### Stack
+
+**Languages**: Python · SQL · R · Java · JavaScript  
+**ML**: Pandas · NumPy · scikit-learn · PyTorch · TensorFlow · Classification · Clustering · Regression  
+**Visualization**: Power BI · Tableau · Matplotlib · Seaborn  
+**Databases**: MySQL · PostgreSQL · Google BigQuery  
+**Frontend**: HTML · CSS · React
